@@ -1,0 +1,65 @@
+sector,rho
+public,"rating
+AAA    0.240000
+A      0.240000
+BBB    0.240000
+BB     0.240000
+B      0.231296
+C      0.130470
+Name: D, dtype: float64"
+info-com,"rating
+AAA    0.240000
+A      0.240000
+BBB    0.240000
+BB     0.222413
+B      0.231647
+C      0.170674
+Name: D, dtype: float64"
+industrie,"rating
+AAA    0.24
+A      0.24
+BBB    0.24
+BB     0.24
+B      0.24
+C      0.24
+Name: D, dtype: float64"
+finance,"rating
+AAA    0.240000
+A      0.240000
+BBB    0.240000
+BB     0.240000
+B      0.231693
+C      0.155445
+Name: D, dtype: float64"
+services,"rating
+AAA    0.240000
+A      0.240000
+BBB    0.240000
+BB     0.240000
+B      0.199917
+C      0.130097
+Name: D, dtype: float64"
+services_pro,"rating
+AAA    0.24
+A      0.24
+BBB    0.24
+BB     0.24
+B      0.24
+C       NaN
+Name: D, dtype: float64"
+construction_immo,"rating
+AAA         NaN
+A      0.240000
+BBB    0.240000
+BB     0.240000
+B      0.210324
+C      0.240000
+Name: D, dtype: float64"
+extraction_primaire,"rating
+AAA    0.240000
+A      0.240000
+BBB    0.240000
+BB     0.240000
+B      0.203083
+C      0.167540
+Name: D, dtype: float64"

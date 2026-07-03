@@ -206,7 +206,21 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-data/
+# ── Données confidentielles ──────────────────────
+credit_ratings/
+facteurs_systemiq/
+international_TES/
+macro_data/
+ngfs_data/
+
+# ── Outputs (souvent dérivés de données sensibles)
+output/
+
+# ── Fichiers de données isolés (filet de sécurité)
 *.csv
 *.xlsx
+*.xls
 *.parquet
+*.json
+*.pkl
+*.db

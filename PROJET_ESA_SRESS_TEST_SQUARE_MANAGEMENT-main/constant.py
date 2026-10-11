@@ -1,3 +1,0 @@
-MODELS = ["NiGEM NGFS v1.24.2[GCAM 6.0 NGFS]"]
-
-COUNTRIES_IMPORT = ["NiGEM NGFS v1.24.2|United States", "NiGEM NGFS v1.24.2|Europe"]
